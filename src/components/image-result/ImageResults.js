@@ -58,7 +58,7 @@ import zoomIn from 'material-ui/svg-icons/action/zoom-in';
       imagelistContent = null;
     }
     const actions = [
-        <FlatButton label="Download" primary={false} onClick = {this.saveImage} />,
+        // <FlatButton label="Download" primary={false} onClick = {this.saveImage} />,
         <FlatButton label="Close" primary={true} onClick = {this.handleClose} />
     ]
     return (
