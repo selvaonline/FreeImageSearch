@@ -6,4 +6,4 @@ Run "npm start"
 ## Technical Stack
 React, Material-Ui, Pixabay API
 ## Live Demo
-![demo](https://freeimagesearch.herokuapp.com/)
+https://freeimagesearch.herokuapp.com/
